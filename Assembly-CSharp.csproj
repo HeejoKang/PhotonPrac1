@@ -210,6 +210,7 @@
     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
     <Compile Include="Assets\Scripts\CameraWork.cs" />
     <Compile Include="Assets\Scripts\CreateRoomPannelManager.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\GameRoomCell.cs" />
     <Compile Include="Assets\Scripts\IntroManager.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
